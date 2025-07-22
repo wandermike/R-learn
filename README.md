@@ -1,2 +1,2 @@
-# R-learn
-R语言的学习过程
+# basic-learn
+基础语言的学习过程
